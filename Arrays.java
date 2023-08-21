@@ -11,8 +11,6 @@ public class Arrays {
             numbers[i] = sc.nextInt();
         }
         
-
-
         //output
         for (int i = 0; i < size; i++) {
             System.out.println(numbers[i]);
